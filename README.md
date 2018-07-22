@@ -1,2 +1,4 @@
 # Esri_Hackathon
-ythhjth
+
+Team Witness Our Fitness's app.
+Python code would have been added to the final project.
